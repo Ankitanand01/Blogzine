@@ -1,0 +1,250 @@
+footer {
+    background-color: rgb(0, 0, 0);
+}
+
+.top-footer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1220px;
+    margin: auto;
+    border-bottom: 1px solid #a1a1a8;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+}
+
+.foot-content {
+    color: #a1a1a8;
+    width: 40%;
+}
+
+.foot-content p {
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.form-cl {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-box {
+    margin-right: 10px;
+}
+
+.form-input {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    font-size: 0.9375rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #c5c6cc;
+    background-color: #191a1f;
+    background-clip: padding-box;
+    border: 1px solid #30343c;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+
+.subs-button {
+    letter-spacing: 0.5px;
+    position: relative;
+    overflow: hidden;
+    outline: 0;
+    white-space: nowrap;
+    padding: 10px 20px;
+    background: #2163e8;
+    color: #fff;
+    border: 1px solid #2163e8;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.subs-button:hover {
+    background: #1c54c5;
+    border: 1px solid #1c54c5;
+    border-radius: 4px;
+}
+
+.privacy-policy {
+    color: #5d5967;
+    display: flex;
+    padding-top: 10px;
+    float: right;
+    font-size: 15px;
+}
+
+.privacy-policy p {
+    padding-right: 5px;
+}
+
+.privacy-policy a {
+    color: #5d5967;
+}
+
+
+
+
+.bottom-footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 0px 40px 0px;
+    /* background: #000; */
+    max-width: 1220px;
+    margin: auto;
+}
+
+.left-footer {
+    color: rgb(161, 161, 168);
+}
+
+.left-footer p {
+    letter-spacing: 1px;
+}
+
+.webestica {
+    text-decoration: none;
+    color: rgb(161, 161, 168);
+    display: inline-block;
+    position: relative;
+}
+
+.webestica:hover {
+    color: rgb(33, 99, 232)
+}
+
+.webestica::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: rgb(161, 161, 168);
+    transform-origin: bottom right;
+    transition: transform 0.5s ease-out;
+}
+
+.webestica:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    background-color: rgb(33, 99, 232);
+}
+
+.right-footer {
+    display: flex;
+}
+
+.foot-list {
+    display: flex;
+    padding-left: 30px;
+}
+
+.top-dropdown a {
+    text-decoration: none;
+    color: rgb(161, 161, 168);
+}
+
+.top-dropdown a:hover {
+    color: rgb(33, 99, 232);
+}
+
+.foot-list li {
+    list-style: none;
+}
+
+.foot-list li a {
+    color: rgb(161, 161, 168);
+    padding: 0 10px;
+    text-decoration: none;
+}
+
+.foot-list li a:hover {
+    color: rgb(33, 99, 232);
+}
+
+@media (max-width: 500px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+    .bottom-footer{
+        flex-direction: column;
+    }
+    .left-footer {
+        padding-left: 50px;
+    }
+
+    .right-footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .top-dropdown {
+        padding: 10px 0px 10px 110px;
+    }
+
+    .foot-list {
+        padding-left: 65px;
+    }
+    
+.top-footer{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.foot-content{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.form-cl{
+    flex-direction: column;
+}
+.input-box{
+    margin-bottom: 10px;
+}
+.privacy-policy{
+    float: left;
+}
+
+}
+
+@media (min-width: 501px) and (max-width: 950px) {
+    .foot-logo {
+        padding: 10px;
+    }
+
+    .foot-content {
+        padding: 10px;
+    }
+
+    .right-foot-content {
+        padding: 15px;
+    }
+
+    .form-cl {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .input-box {
+        margin-bottom: 15px;
+    }
+
+    .privacy-policy {
+        flex-direction: column;
+    }
+    .top-footer{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .bottom-footer{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+   
+}

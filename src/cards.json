@@ -1,0 +1,181 @@
+{
+    "blogCards":[
+        {
+            "bgImage": "https://blogzine.webestica.com/assets/images/blog/1by1/01.jpg",
+            "badgeText": "Lifestyle",
+            "cardHeading": "Ten tell-tale signs you need to get a new startup.",
+            "cardDesc": "No visited raising gravity outward subject my cottage Mr be. Hold do at tore in park feet near my case. ",
+            "profileImage": "https://blogzine.webestica.com/assets/images/avatar/11.jpg",
+            "profileName": "by Louis",
+            "date": "Nov 15, 2022",
+            "duration": "5 min read",
+            "pin":"true"
+        },
+        {
+            "bgImage": "https://blogzine.webestica.com/assets/images/blog/1by1/02.jpg",
+            "badgeText": "Technology",
+            "cardHeading": "Best Pinterest boards for learning about business",
+            "profileName": "by Bryan",
+            "date": "Aug 18, 2022"
+        },
+        {
+            "bgImage": "https://blogzine.webestica.com/assets/images/blog/1by1/03.jpg",
+            "badgeText": "Business",
+            "cardHeading": "Five intermediate guide to business",
+            "profileName": "by John",
+            "date": "Jun 03, 2022"
+        },
+        {
+            "bgImage": "https://blogzine.webestica.com/assets/images/blog/1by1/04.jpg",
+            "badgeText": "Sports",
+            "cardHeading": "15 reasons to choose startup",
+            "profileName": "by Aman",
+            "date": "Jan 28, 2022"
+        }
+    ],
+    "HighlightsCards":[
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/01.jpg",
+            "badgeText":"Technology",
+            "higTitle":"12 worst types of business accounts you follow on Twitter",
+            "higPara":"He moonlights difficult engrossed it, sportsmen. Interested has all Devonshire difficulty gay assistance joy. Unaffected at ye of compliment alteration to",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/01.jpg",
+            "profileName":"by Samuel",
+            "date":"Jan 22, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/06.jpg",
+            "badgeText":"Travel",
+            "higTitle":"Dirty little secrets about the business industry",
+            "higPara":"Place voice no arises along to. Parlors waiting so against me no. Wishing calling is warrant settled was lucky. Express besides it present if at an opinion visitor.",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/02.jpg",
+            "profileName":"by Dennis",
+            "date":"Mar 07, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/03.jpg",
+            "badgeText":"Gadgets",
+            "higTitle":"Bad habits that people in the industry need to quit",
+            "higPara":"For who thoroughly her boy estimating conviction. Removed demands expense account in outward tedious do. Particular way thoroughly unaffected",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/03.jpg",
+            "profileName":"by Bryan",
+            "date":"Jun 17, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/04.jpg",
+            "badgeText":"Sports",
+            "higTitle":"Around the web: 20 fabulous infographics about business",
+            "higPara":"Projection favorable Mrs can be projecting own. Thirty it matter enable become admire in giving. See resolved goodness felicity shy civility domestic had but.",
+            "profileImage":"https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1512936020165x278911292087286720%2FA.png?w=&h=&auto=compress&dpr=1&fit=max",
+            "profileName":"by Billy",
+            "date":"Dec 29, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/05.jpg",
+            "badgeText":"",
+            "higTitle":"7 common mistakes everyone makes while traveling",
+            "higPara":"Drawings offended yet answered Jennings perceive laughing six did far. Rooms oh fully taken by worse do. Points afraid but may end law lasted.",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/05.jpg",
+            "profileName":"by Jacqueline",
+            "date":"Nov 11, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/12.jpg",
+            "badgeText":"Photography",
+            "higTitle":"5 investment doubts you should clarify",
+            "higPara":"Was out laughter raptures returned outweigh. Luckily cheered colonel I do we attack highest enabled. Tried law yet style child. The bore of true of no be deal.",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/06.jpg",
+            "profileName":"by Carolyn",
+            "date":"Sep 01, 2022"
+        }
+    ],
+    "sponsored":[
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/08.jpg",
+            "badgeText":"Sports",
+            "higTitle":"Skills that you can learn from business",
+            "profileImage":"https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1512936020165x278911292087286720%2FA.png?w=&h=&auto=compress&dpr=1&fit=max",
+            "profileName":"by Joan",
+            "date":"Aug 15, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/09.jpg",
+            "badgeText":"Marketing",
+            "higTitle":"10 tell-tale signs you need to get a new business",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/09.jpg",
+            "profileName":"by Bryan",
+            "date":"Jun 01, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/10.jpg",
+            "badgeText":"Photography",
+            "higTitle":"This is why this year will be the year of startups",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/10.jpg",
+            "profileName":"by Samuel",
+            "date":"Dec 07, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/11.jpg",
+            "badgeText":"Technology",
+            "higTitle":"Best Pinterest Boards for learning about business",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/12.jpg",
+            "profileName":"by Dennis",
+            "date":"Sep 07, 2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/07.jpg",
+            "badgeText":"Marketing",
+            "higTitle":"7  mistakes everyone makes while traveling",
+            "profileImage":"https://blogzine.webestica.com/assets/images/avatar/07.jpg",
+            "profileName":"by Lori",
+            "date":"Mar 07, 2022"
+        }
+
+    ],
+    "treanding":[
+        {
+            "image":"https://blogzine.webestica.com/assets/images/blog/4by3/01.jpg",
+            "text":"Travel"
+        },
+        {
+            "image":"https://blogzine.webestica.com/assets/images/blog/4by3/02.jpg",
+            "text":"Business"
+        },
+        {
+            "image":"https://blogzine.webestica.com/assets/images/blog/4by3/03.jpg",
+            "text":"Marketing"
+        },
+        {
+            "image":"https://blogzine.webestica.com/assets/images/blog/4by3/04.jpg",
+            "text":"Photography"
+        },
+        {
+            "image":"https://blogzine.webestica.com/assets/images/blog/4by3/05.jpg",
+            "text":"Sports"
+        }
+    ],
+    "Recent":[
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/thumb/01.jpg",
+            "higTitle":"The pros and cons of business agency",
+            "date":"May 17,2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/thumb/02.jpg",
+            "higTitle":"5 reasons why you shouldn't startup",
+            "date":"Apr 04,2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/thumb/03.jpg",
+            "higTitle":"Ten questions you should answer truthfully.",
+            "date":"Jun 30,2022"
+        },
+        {
+            "higBGImage":"https://blogzine.webestica.com/assets/images/blog/4by3/thumb/04.jpg",
+            "higTitle":"Five unbelievable facts about money.",
+            "date":"Nov 29,2022"
+        }
+    ]
+    
+}
+
